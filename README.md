@@ -1,8 +1,8 @@
 # 🚐 Control inalámbrico de luces para casilla rodante con ESP32 + ESP-NOW
 
-Hola a todos 🙂
+<img width="588" height="543" alt="PCB_1" src="https://github.com/user-attachments/assets/9a957825-decb-4dcd-816b-b914d9d19205" />
 
-Quiero compartirles un proyecto que desarrollé para resolver un problema bastante común en casillas rodantes o carros: **el cable que une el vehículo con el tráiler para manejar las luces** (posición, giro, freno, etc.).
+Hola a todos 🙂 Quiero compartirles un proyecto que desarrollé para resolver un problema bastante común en casillas rodantes o carros: **el cable que une el vehículo con el tráiler para manejar las luces** (posición, giro, freno, etc.).
 
 Con el uso, ese cable se corta, se sulfata, se desconecta… o simplemente molesta.  
 La idea de este proyecto fue simple:
@@ -133,3 +133,21 @@ El sistema es robusto.
 Y lo mejor:
 
 Podés hacerlo vos mismo.
+
+---
+
+# 🧠 ¿Cual es la diferencia entre las dos versiones?
+
+Bien, como entiendo que no todo el mundo tiene la capacidad y conocimientos para confeccionar sus propios PCB (plaquetas), escribi dos versiones para que puedan emplear el diseño del PCB que comparto, o bien, emplear los SHIELD RELAY comerciales...
+
+- V1 tiene la logica para emplear el PCB que comparto
+- V2 tiene la logica para emplear los Shield RELAY comerciales
+
+# 🧠 PCB para la version1:
+
+<img width="641" height="446" alt="PCB_2" src="https://github.com/user-attachments/assets/e0dae55e-4976-4d4d-9c5e-208ce29f5dec" />
+
+<img width="644" height="451" alt="PCB_3" src="https://github.com/user-attachments/assets/4bca9c01-b352-4680-bdac-0c02b8aae721" />
+
+---
+
