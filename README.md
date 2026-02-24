@@ -143,11 +143,13 @@ Bien, como entiendo que no todo el mundo tiene la capacidad y conocimientos para
 - V1 tiene la logica para emplear el PCB que comparto
 - V2 tiene la logica para emplear los Shield RELAY comerciales
 
-# 🧠 PCB para la version1:
+# 🧠 PCB para la version1 y conexionado de fichas:
 
 <img width="641" height="446" alt="PCB_2" src="https://github.com/user-attachments/assets/e0dae55e-4976-4d4d-9c5e-208ce29f5dec" />
 
 <img width="644" height="451" alt="PCB_3" src="https://github.com/user-attachments/assets/4bca9c01-b352-4680-bdac-0c02b8aae721" />
+
+<img width="526" height="675" alt="Conexion" src="https://github.com/user-attachments/assets/82dbb366-b411-43a7-bbca-3d111d314ba3" />
 
 ---
 
